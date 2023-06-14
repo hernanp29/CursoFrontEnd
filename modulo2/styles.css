@@ -1,0 +1,17 @@
+.encabezado{
+    height: 20%;
+    width: 100%;
+    background-color: #E9E7E8;
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+}
+.navegador{
+    height: 10%;
+    width: 50%;
+    display: flexbox;
+    justify-content:flex; 
+    align-items: center;
+    justify-content: space-between;
+
+}
